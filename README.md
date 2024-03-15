@@ -54,7 +54,7 @@ ProProfs Project、Todoist、boardmix、Teamwork、Asana
 - 作者视频：https://www.bilibili.com/video/BV1ag4y1F7x4/?spm_id_from=333.337.search-card.all.click&vd_source=81eff209b464119602af44120087aa47
 
 # 本地部署
-- 项目名称：Google Gemma 开源大模型
+## Google Gemma 开源大模型
 - 项目特点：一系列轻量级、先进的开放式模型，采用与创建 Gemini 模型相同的研究和技术构建而成
 - 项目连接：https://ai.google.dev/gemma?hl=zh-cn
 - 参考教程：https://gpt890.com/article/21
